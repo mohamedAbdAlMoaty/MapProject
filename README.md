@@ -11,18 +11,6 @@ Sample demonstrating how to use Maps SDK for Android
 - AutocompletePredictions
 - Repository pattern
 - ViewModel + LiveData
-
-
-# Firebase Android Open Source Development
-
-This repository contains a subset of the Firebase Android SDK source. It
-currently includes the following Firebase libraries, and some of their
-dependencies:
-
-  * `firebase-auth`
-  * `firebase-analytics`
-  * `firebase-geofire`
-  * `firebase-database`
   
 
 
@@ -36,8 +24,10 @@ android versions targeted:
 ### Libraries
 
 - Google Maps location
-- Material Design
-- Cardview
+- Gson
+- retrofit2
+- Room
+
 
 
 ## Author
